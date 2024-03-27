@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Luís Fernando
-Tenho 18 anos e estou iniciando na área de programação.
+Tenho 19 anos e estou buscando minha primeira oportunidade na área de programação.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
