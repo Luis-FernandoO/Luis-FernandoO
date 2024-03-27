@@ -1,5 +1,12 @@
 ## Olá! Eu sou o Luís Fernando
 Tenho 19 anos e estou buscando minha primeira oportunidade na área de programação.
+##Conhecimento
+  - Python
+  - JavaScript
+  - HTML
+  - CSS
+  - MySQL
+  - Metodologia Ágil: Scrum
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
