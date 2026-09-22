@@ -3,9 +3,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 ### Sobre Mim  
-- 💼 Estagiário na **Agetec** - Agência Municipal de Tecnologia da Informação e Inovação de Campo Grande  
+- 💼 Desenvolvedor na **Agetec** - Agência Municipal de Tecnologia da Informação e Inovação de Campo Grande  
 - 💡 Apaixonado por tecnologia, sempre buscando aprender e evoluir!
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
@@ -14,11 +13,12 @@
 ![C#](https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=sharp&logoColor=663399&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=black)
 
 ### 🔹 Frameworks  
 ![.NET](https://img.shields.io/badge/.NET-663399?style=for-the-badge&logo=.net&logoColor=663399&labelColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=black)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=black)
 
 ### 🔹 Desenvolvimento Web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
